@@ -1,0 +1,18 @@
+Spielkonzept - Käsekästchen
+
+Ich programmiere das Papier-Spiel Käsekästchen mit Java als Desktop-Spiel.
+Über eine mobile Applikation habe ich nachgedacht und werde ich auch vielleicht in Angriff nehmen sollte dazu noch Zeit vorhanden sein. 
+Vielleicht im Voraus wie das Spiel funktioniert:
+Es wird mit den Kästchen auf einem karierten Blatt gespielt. Ein Spieler beginnt und zeichnet eine Linie eines Kästchens in seiner Farbe 
+nach. Der Mitspieler, also der Gegner, ist nun am Zug und zeichnet eine Linie nach. Sollte jemand mit seiner Linie ein Kästchen 
+vervollständigen, so darf der Spieler ein Kreuz in das Kästchen machen und erhält einen Punkt. Hat man gerade einen Punkt erhalten, 
+darf man erneut eine Linie zeichnen. Das Spiel endet, wenn keine freien Kästchen mehr vorhanden sind. Der Spieler mit den meisten Punkten
+gewinnt.
+
+Programmierkonzept:
+Ich werde ein graues Raster zeichnen, welches darstellen soll, dass es sich hierbei um unbenutzte Linien handelt.
+Ein Spieler erhält die Farbe Rot und ein anderer die Farbe Blau. Nun bewegt der Spieler, welcher am Zug ist, die Maus zur gewünschten 
+Stelle und klickt die Linie an wo eine Linie gezeichnet werden soll. Nun darf der andere Spieler mit der Maus eine Linie 
+aussuchen und anklicken. Falls ein Spieler ein Kästchen vervollständigt wird diesem ein Punkt hinzugerechnet. Den momentanen 
+Punktestand sieht man im Interface. Damit man nicht allzu lange überlegt zählt eine Uhr runter. Sollte der Spieler keinen Strich
+gesetzt haben und die Uhr ist auf null gegangen, so ist nun der andere Spieler am Zug. 
