@@ -1,0 +1,61 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon HD 7900 Series (ID=0x679a)
+    Vendor:   ATI
+    VRAM:     3053 MB
+    Driver:   21.19.137.514
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Desktop New\Kaesekaestchen\Kaesekaestchen_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Desktop New\Kaesekaestchen\Kaesekaestchen_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Desktop New\Kaesekaestchen\Kaesekaestchen_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Desktop New\Kaesekaestchen\Kaesekaestchen_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Desktop New\Kaesekaestchen\Kaesekaestchen_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Desktop New\Kaesekaestchen\Kaesekaestchen_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Desktop New\Kaesekaestchen\Kaesekaestchen_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Desktop New\Kaesekaestchen\Kaesekaestchen_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Desktop New\Kaesekaestchen\Kaesekaestchen_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Desktop New\Kaesekaestchen\Kaesekaestchen_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.084 seconds
+Platform assembly: D:\Desktop New\Kaesekaestchen\Kaesekaestchen_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Desktop New\Kaesekaestchen\Kaesekaestchen_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 22.727869 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.583341 ms
+
+Unloading 58 unused Assets to reduce memory usage. Loaded Objects now: 540.
+Total: 0.768876 ms (FindLiveObjects: 0.020748 ms CreateObjectMapping: 0.011105 ms MarkObjects: 0.282301 ms  DeleteObjects: 0.452967 ms)
+
+aa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+dd
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.530410 ms
+
+Unloading 48 unused Assets to reduce memory usage. Loaded Objects now: 426.
+Total: 1.590647 ms (FindLiveObjects: 0.022502 ms CreateObjectMapping: 0.011397 ms MarkObjects: 0.354483 ms  DeleteObjects: 1.201679 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 10a8 -> priority: 1 
